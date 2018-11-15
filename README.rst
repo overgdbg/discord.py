@@ -6,7 +6,7 @@ discord.py
 .. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
 
-discord.py is an API wrapper for Discord written in Python.
+discord.py is an API wrapper for Discord written in Python. This was forked to change the default repository to allow requirements.txt on repl.it to import the rewrite version of the library.
 
 This was written to allow easier writing of bots or chat logs. Make sure to familiarise yourself with the API using the `documentation <http://discordpy.rtfd.org/en/latest>`__.
 
